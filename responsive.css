@@ -11,3 +11,7 @@ padding: 0 10px;
     
 
 }
+.container-1{
+    flex-direction: column;
+}
+}
