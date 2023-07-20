@@ -90,10 +90,12 @@ padding: 0 240px;
 
 .play-text{
     width:50%px;
-    align-items: start;
-    justify-self: start;
+    align-items: flex-start;
+    
 
 }
+
+
 .play-imgs{
     width: 50%;
    
@@ -162,4 +164,32 @@ background: var(--linear, linear-gradient(90deg, #FF42A5 0%, #FF42A5 100%));
 
 
 
+
+
+
+ /* online game section start  */
+.container-2{
+max-width: 1920px;
+margin: 0 auto;
+align-content: center;
+text-align:center ;
+}
+
+.picture{
+    display: flex;
+    gap: 24px;
+    justify-content: center;
+    padding: 0 220px 0 ;
+}
+
+.card{   
+     max-width: 320px;
+    height: 400px;
+}
+#card-text{
+
+    color: #534C64;
+font-size: 20px;
+font-weight: 500;
+}
  
