@@ -74,11 +74,92 @@ padding: 0 240px;
     font-size: 18px;
     font-weight: 500;
     padding: 21px 18px;
-    
-
 }
 
 
 
 /* banner section */
 
+.container-1{
+    max-width: 1440px;
+    margin: 19px auto 0;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.play-text{
+    width:50%px;
+    align-items: start;
+    justify-self: start;
+
+}
+.play-imgs{
+    width: 50%;
+   
+}
+ .play-imgs img{width: 100%;}
+
+.like{
+    width: 348px;
+    height: 55px;
+    color: #0B0223;
+    font-size: 48px;
+    font-weight: 600;
+    text-align: center;
+    
+    
+}
+.goat{
+    
+    width: 370px;
+    height: 100px;
+    font-size: 95px;
+    font-weight: 800;
+    background: linear-gradient(180deg, #F948B2 0%, #8758F1 100%);
+     background-clip: text;
+     -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: center;
+}
+.Click{
+    width: 330px;
+    height: 23px;
+    color: #534C64;
+font-size: 20px;
+font-weight: 500;
+text-align: center;
+text-transform: lowercase;
+
+}
+
+.btn-sing{
+    
+    color: #FFF;
+font-size: 20px;
+font-weight: 600;
+padding: 21px 40px;
+border-radius: 48px;
+background: var(--linear, linear-gradient(90deg, #FF42A5 0%, #FF42A5 100%));
+
+}
+.btn-rogue{
+    color:#FFF;
+    font-size: 20px;
+    font-weight: 600;
+    padding: 21px 40px;
+    border-radius: 48px;
+    background: #4EC5F7;
+
+}
+
+.btn-gap-3{
+    display: flex;
+    gap: 15px;
+}
+
+
+
+
+
+ 
