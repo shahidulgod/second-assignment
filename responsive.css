@@ -11,7 +11,14 @@ padding: 0 10px;
     
 
 }
-.container-1{
-    flex-direction: column;
-}
-}
+
+    
+    .cont-2.play-text.play-text-2{
+        flex-direction: column;
+        margin-top: 65px;
+        width: 50%;
+    
+    }
+    
+
+
