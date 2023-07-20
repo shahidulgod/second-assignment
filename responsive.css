@@ -3,12 +3,11 @@
 @media screen  and  (max-width:425px) {
 .container{flex-direction: column;
     width: 100%;
-}
-.cont-2{
-    flex-direction: column;
-    margin-top: 65px;
+padding: 0 10px;
 }
 .cont-1{
-    display: block;
+    flex-direction: column;
+    margin-top: 65px;
     
+
 }
